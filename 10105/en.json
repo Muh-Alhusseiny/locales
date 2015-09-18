@@ -552,6 +552,7 @@
   "magic_draw_buy_descr": "After sending, your magical touch to {0} sees all the spectators in the room!",
   "magic_draw_buy_title": "Magical touch",
   "magic_draw_system_msg": "%from% magically touched %to%",
+  "magic_draw_system_msg_for_owner": "%from% magically touched you (+{0} to experience)",
  "faberge_red_cross": "Faberge egg «Red Cross»",
  "faberge_red_cross_description": "This gift symbolizes a tribute of respect to activity of Empress Maria Fedorovna in the Red Cross. Due to austerity in the First World War the jewelry egg was low cost and particularly simple in design.",
  "test_up_1": "test",
