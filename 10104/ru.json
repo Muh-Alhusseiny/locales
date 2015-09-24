@@ -1834,5 +1834,6 @@
   "wt_ach_descr3":"Стал ведущим недели {0}",
   "wt_ach_descr4":"Стал ценителем недели {0}",
   "wt_ach_descr5":"Стал банщиком недели {0}",
-  "wt_ach_descr6":"Стал палачом недели {0}"
+  "wt_ach_descr6":"Стал палачом недели {0}",
+  "weekly_top_results":"На этой неделе больше всех лайков получил %received_likes_winner_id%. А отправил %sended_likes_winner_id%. Больше всех сделал подарков %buy_money_winner_id%. %minutes_translated_winner_id% дольше всех провел на камере. Самым суровым банщиком оказался %ban_money_winner_id%. А грозой всего чата становится %punish_money_winner_id%. Все они получают в награду {0}. Поздравим их!"
 }
