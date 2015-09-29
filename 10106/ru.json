@@ -80,7 +80,7 @@
   "common.payments.mrtigraTitle": "Магазин Мастера Тигры",
   "common.payments.info.title": "Ваша покупка",
   "common.payments.info.desc": "{productTypeDesc} за {sum}",
-  "common.payments.info.app": "Приложение:",
+  "common.payments.info.app": "В приложении:",
   "common.paymentsList.pop": "Популярные способы оплаты",
   "common.paymentsList.mainHeader": "Выберите способ оплаты",
   "common.paymentsList.toMore.tooltip": "Другие способы оплаты",
