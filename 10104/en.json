@@ -1834,5 +1834,15 @@
   "wt_ach_descr4":"Became the judge of the week {0}",
   "wt_ach_descr5":"Became the banner of the week {0}",
   "wt_ach_descr6":"Became the executioner of the week {0}",
-  "weekly_top_results":"This week most likes received by %received_likes_winner_id%. And sent by %sended_likes_winner_id%. Most of all made gifts %buy_money_winner_id%. %Minutes_translated_winner_id% spent the longest on camera. The most severe banner is %ban_money_winner_id%. And the biggest punisher is %punish_money_winner_id%. They all receive reward {0}. Let's congratulate them!"
+  "weekly_top_results":"This week most likes received by %received_likes_winner_id%. And sent by %sended_likes_winner_id%. Most of all made gifts %buy_money_winner_id%. %Minutes_translated_winner_id% spent the longest on camera. The most severe banner is %ban_money_winner_id%. And the biggest punisher is %punish_money_winner_id%. They all receive reward {0}. Let's congratulate them!",
+  "only_for_pro":"This feature is available only to users with the PRO status.",
+  "end_game":"End game",
+  "your_level_too_low":"Your level is too low!",
+  "chats_only_with_high_lvl":"chats only with users of level {0} and above. To enhance your level give presents or start a translation.",
+  "send_present":"Send a present",
+  "block_user_msg":"Block messages from users",
+  "dont_block":"don't block",
+  "of_level":" level",
+  "and_lower":"or lower",
+  "select_lvl":"Select level"
 }
