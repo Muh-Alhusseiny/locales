@@ -1844,5 +1844,9 @@
   "dont_block":"don't block",
   "of_level":" level",
   "and_lower":"or lower",
-  "select_lvl":"Select level"
+  "select_lvl":"Select level",
+  "egg_sale_title":"Special offer on Faberge eggs",
+  "egg_sale_descr":"Only today: Seize the chance to get the entire collection of Faberge eggs at a discounted price!",
+  "egg_sale_shop":"Get collection of Faberge eggs on favorable terms! The entire collection with 50% discount.",
+  "egg_sale_promo":"Seize your chance to buy Faberge eggs under favorable terms! Only Today: 50% discount."
 }
