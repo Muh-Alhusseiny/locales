@@ -89,7 +89,7 @@
   "common.paymentsList.ap.capDesc": "Current Balance: {balance}",
   "common.paymentsList.ap.title": "Master Tigra",
   "common.paymentsList.cr": "Promised Payment",
-  "common.paymentsList.cr.disclaimer": "Promised payment {sum} on {limitDays} days.",
+  "common.paymentsList.cr.disclaimer": "You are a steady user in our projects, so we will be happy to credit the payment now for you, and you can pay it later at your convenience.",
   "common.paymentsList.cr.capDesc": "The maximum amount for «Promised payment» available to you: {limitSum}&nbsp;on&nbsp;{limitDays}&nbsp;days.",
   "common.paymentsList.cr.title": "Master Tigra",
   "common.paymentsList.cr.toPay": "Use Promised payment",
