@@ -559,5 +559,12 @@
  "faberge_red_cross_description": "This gift symbolizes a tribute of respect to activity of Empress Maria Fedorovna in the Red Cross. Due to austerity in the First World War the jewelry egg was low cost and particularly simple in design.",
  "buy_coins_newcomerBonus_store" : "Newcomer Bonus: coins x2 to first buy!",
  "delete_photo" : "Delete profile photo",
- "test_up": "test"
+ "share_url" : "http://www.flirtymania.com/",
+ "share_main_text" : "The best Video Chat! #chat",
+ "share_deep_link_ID" : "ios/gp",
+ "share_call_to_action_deep_link_ID" : "/ios/gp/download",
+ "share_call_to_action_label" : "DOWNLOAD",
+ "share_head" : "FlirtyMania",
+ "test_up": "test",
+ "test_up_1": "test"
 }
