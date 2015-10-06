@@ -561,6 +561,7 @@
   "share_main_text" : "Лучший Видео #Чат! #chat",
   "share_deep_link_ID" : "ios/gp",
   "share_call_to_action_deep_link_ID" : "/ios/gp/download",
-  "share_call_to_action_label" : "DOWNLOAD",
+  "share_call_to_action_label" : "СКАЧАТЬ",
+  "share_call_to_action_url" : "",
   "share_head" : "ВидеоБеседа"
 }
