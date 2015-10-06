@@ -563,7 +563,7 @@
  "share_main_text" : "The best Video Chat! #chat",
  "share_deep_link_ID" : "ios/gp",
  "share_call_to_action_deep_link_ID" : "/ios/gp/download",
- "share_call_to_action_label" : "DOWNLOAD",
+ "share_call_to_action_label" : "",
  "share_head" : "FlirtyMania",
  "test_up": "test",
  "test_up_1": "test"
