@@ -1848,5 +1848,7 @@
   "egg_sale_title":"Due to the collectors request: Special offer on Faberge eggs",
   "egg_sale_descr":"Only today: Seize the chance to get the entire collection of Faberge eggs at a discounted price!",
   "egg_sale_shop":"By popular demand: Get collection of Faberge eggs on favorable terms! The entire collection with 50% discount.",
-  "egg_sale_promo":"Special offer due to the users request! Seize your chance to buy Faberge eggs under favorable terms! Only Today: 50% discount."
+  "egg_sale_promo":"Special offer due to the users request! Seize your chance to buy Faberge eggs under favorable terms! Only Today: 50% discount.",
+  "disconnect_msg":"You were temporarily disconnected, because you have been inactive for long time.",
+  "reconnect":"reconnect"
 }
