@@ -36,6 +36,7 @@
   "common.fines.reasons.migrate-account-resources": "Migrating game currency or resources to another account / server",
   "common.fines.reasons.edit-blocking": "Remove (block) accounts, uncloning",
   "common.fines.reasons.check-network-data": "Checking network activity of account (IP-address, the device-ID)",
+  "common.fines.reasons.delete-account": "account recovery",
   "common.fines.timeDays": "d",
   "common.fines.timeHeader": "You are blocked, access the application will be open through",
   "common.fines.timeHours": "h",
