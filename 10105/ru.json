@@ -563,5 +563,10 @@
   "share_call_to_action_deep_link_ID" : "/ios/gp/download",
   "share_call_to_action_label" : "DOWNLOAD",
   "share_call_to_action_url" : "",
-  "share_head" : "ВидеоБеседа"
+  "share_head" : "ВидеоБеседа",
+  "for_exp_btn": "Получить опыт",
+  "maintain_app_for_exp_new": "Оцените наше приложение в Google Play и получите 1000 опыта бесплатно! %for_exp_btn%",
+  "maintain_app_for_exp_ios_new": "Оцените наше приложение в App Store и получите 1000 опыта бесплатно! %for_exp_btn%",
+  "share_for_exp_new": "Расскажите о приложении друзьям в соцсети и получите 1000 опыта бесплатно! %for_exp_btn%",
+  "you_called_new": "Вам звонил %user% %call_back% %ignore%"
 }
