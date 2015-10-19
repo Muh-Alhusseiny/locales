@@ -75,6 +75,8 @@
   "common.payments.mrtigraTitle": "Master Tigra Shop",
   "common.payments.info.title": "You buy",
   "common.payments.info.desc": "{productTypeDesc} for {sum}",
+  "common.payments.info.descToFriend": "{productTypeDesc} for {sum} for a friend #{toId}",
+  "common.payments.info.id": "Payment ID: {id}",
   "common.payments.creditAlert.fewDays": "{h1}Promised payment{/h1}{p}Previously you were taking the Promised payment. You have less than {daysLeft} days to repay the debt. We recommend to pay it in advance without waiting for the lock account.{/p}{a}Pay {sum}{/a}",
   "common.payments.creditAlert.lastDay": "{h1}Promised payment{/h1}{p}Previously you were taking the Promised payment. Today you have the last day to repay the debt We strongly recommend you pay it is not waiting for the lock account.{/p}{a}Pay {sum}{/a}",
   "common.paymentsList.pop": "Choose a payment method convenient for you",
