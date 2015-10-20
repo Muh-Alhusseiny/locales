@@ -67,6 +67,7 @@
   "common.mods.vg": "Vgorode.ru",
   "common.mods.vk": "VK.com",
   "common.payments.ConfirmBackUrlTitle": "Return to the application",
+  "common.payments.ConfirmBackToRepeat": "Choose another payment method",
   "common.payments.fail.*.text": "{h1}An error occurred while paying{/h1}{p}We will investigate and fix the problem. But you can choose another payment method or payment system.{/p}",
   "common.payments.inviteMsgSupportChat": "Hello! You can not determine the choice of payment system? You have questions or problems? Can I help you?\n\nYou id: {userId}.",
   "common.payments.paymentsConfirmTitle": "Payment confirmation",

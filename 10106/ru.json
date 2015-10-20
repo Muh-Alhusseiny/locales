@@ -68,6 +68,7 @@
   "common.mods.vg": "Вгороде.ru",
   "common.mods.vk": "Вконтакте",
   "common.payments.ConfirmBackUrlTitle": "Вернуться в приложение",
+  "common.payments.ConfirmBackToRepeat": "Выбрать другой способ оплаты",
   "common.payments.fail.*.text": "{h1}Произошла ошибка при оплате{/h1}{p}Пока мы разбираемся с возникшей проблемой, вы можете выбрать другой способ оплаты или платёжную систему.{/p}",
   "common.payments.inviteMsgSupportChat": "Здравствуйте! Не можете определиться с выбором платёжной системы, возникли вопросы или проблемы? Я могу Вам помочь!\n\nВаш id: {userId}.",
   "common.payments.paymentsConfirmTitle": "Подтверждение оплаты",
