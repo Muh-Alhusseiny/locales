@@ -575,5 +575,6 @@
   "maintain_app_for_exp_new": "Rate the app in Google Play and you will get 1000 experience for free! %for_exp_btn%",
   "maintain_app_for_exp_ios_new": "Rate the app in the App Store and you will get 1000 experience for free! %for_exp_btn%",
   "share_for_exp_new": "Share with your friends and get 1000 experience for free! %for_exp_btn%",
-  "you_called_new": "You called %user% %call_back% %ignore%"
+  "you_called_new": "You called %user% %call_back% %ignore%",
+  "sign_in_with_all_button" : "Another way"
 }
