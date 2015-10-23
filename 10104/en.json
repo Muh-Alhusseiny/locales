@@ -1868,5 +1868,12 @@
   "egg_sale_shop":"By popular demand: Get collection of Faberge eggs on favorable terms! The entire collection with 50% discount.",
   "egg_sale_promo":"Special offer due to the users request! Seize your chance to buy Faberge eggs under favorable terms! Only Today: 50% discount.",
   "disconnect_msg":"You were temporarily disconnected, because you have been inactive for long time.",
-  "reconnect":"reconnect"
+  "reconnect":"reconnect",
+  "max_presents_in_room":"You can not add more presents. Maximum number: {0}",
+  "user_rep_descr":"has {0} reputation and +{1} bonus reputation of presents placed in his room.",
+  "bar_all_presents":"All presents",
+  "bar_in_room":"In room",
+  "rep_plus":"Reputation +{0}",
+  "presents_in_room":"Presents in room",
+  "bonus_rep_descr":"Only the presents placed in your room, give a bonus to reputation. Places are limited. For each level you get five places."
 }
