@@ -1875,5 +1875,6 @@
   "bar_in_room":"In room",
   "rep_plus":"Reputation +{0}",
   "presents_in_room":"Presents in room",
-  "bonus_rep_descr":"Only the presents placed in your room, give a bonus to reputation. Places are limited. For each level you get five places."
+  "bonus_rep_descr":"Only the presents placed in your room, give a bonus to reputation. Places are limited. For each level you get five places.",
+  "first_purchase_info":"Bonus for newcomers! First purchase's coins are doubled!"
 }
