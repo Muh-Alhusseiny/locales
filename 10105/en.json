@@ -560,7 +560,7 @@
   "faberge_red_cross_description": "This gift symbolizes a tribute of respect to Empress Maria Fedorovna's work in the Red Cross. Due to austerity during the First World War, the egg was low-cost and particularly simple in design.",
   "buy_coins_newcomerBonus_store" : "Newcomer Bonus: x2 coins for the first purchase!",
   "delete_photo" : "Delete Photo",
-  "share_url" : "http://www.flirtymania.com/video-chat-rooms/",
+  "share_url" : "http://www.flirtymania.com",
   "share_main_text" : "The best Video Chat! #chat",
   "share_deep_link_ID" : "ios/gp",
   "share_call_to_action_deep_link_ID" : "/ios/gp/download",
@@ -576,5 +576,5 @@
   "maintain_app_for_exp_ios_new": "Rate the app in the App Store and you will get 1000 experience for free! %for_exp_btn%",
   "share_for_exp_new": "Share with your friends and get 1000 experience for free! %for_exp_btn%",
   "you_called_new": "You called %user% %call_back% %ignore%",
-  "sign_in_with_all_button" : "Another way"
+  "sign_in_with_all_button" : "More"
 }
