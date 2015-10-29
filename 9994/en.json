@@ -2591,5 +2591,9 @@
   "bonus_mob_repair": "Repair of monsters",
   "zoom_in": "Zoom in",
   "support": "Support",
+  "requires_city_center_10": "Required «Town Hall» level 10",
+  "requires_city_center_10_descr": "To use cool stickers, you need to have «Town Hall» level 10 or older.",
+  "requires_lantern_jack": "Requires Lantern Jack",
+  "requires_lantern_jack_descr": "To use magic sticker, you need to build Lantern Jack",
   "zoom_out": "Zoom out"
 }
