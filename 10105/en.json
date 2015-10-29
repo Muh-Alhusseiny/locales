@@ -579,7 +579,7 @@
   "sign_in_with_all_button" : "More",
   "terms_continue_button" : "Continue",
   "terms_got_it_button" : "Got It",
-  "terms_sexual" : "Absolutely no nudity or sexually explicit behavior",
-  "terms_bullying" : "No bullying, harassment, or hate speech",
+  "terms_sexual" : "Absolutely no nudity or \nsexually explicit behavior",
+  "terms_bullying" : "No bullying, harassment, \nor hate speech",
   "terms_underage" : "No underage users"
 }
