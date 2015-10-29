@@ -576,5 +576,10 @@
   "maintain_app_for_exp_ios_new": "Rate the app in the App Store and you will get 1000 experience for free! %for_exp_btn%",
   "share_for_exp_new": "Share with your friends and get 1000 experience for free! %for_exp_btn%",
   "you_called_new": "You called %user% %call_back% %ignore%",
-  "sign_in_with_all_button" : "More"
+  "sign_in_with_all_button" : "More",
+  "terms_continue_button" : "Continue",
+  "terms_got_it_button" : "Got It",
+  "terms_sexual" : "Absolutely no nudity or sexually explicit behavior",
+  "terms_bullying" : "No bullying, harassment, or hate speech",
+  "terms_underage" : "No underage users",
 }
