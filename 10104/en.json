@@ -1893,5 +1893,7 @@
   "sign_in_with_gg_button": "Sign in with Google+",
   "sign_in_with_vk_button": "Sign in with VK",
   "please_sign_in": "Sign in to start talking with new friends!",
-  "review_login_text": "By continuing, you allow this app to use your information in accordance with their respective <a href='{0}'>Terms of Use</a> and <a href='{1}'>Privacy Policies</a>."
+  "review_login_text": "By continuing, you allow this app to use your information in accordance with their respective <a href='{0}'>Terms of Use</a> and <a href='{1}'>Privacy Policies</a>.",
+  "privacy_policy_url":"https://docs.google.com/document/d/1pnvHPZa7c5lQ49Ib0e_-cG7VoPgoqyZntBigIHEk_kU/pub",
+  "terms_of_use_url":"https://docs.google.com/document/d/1j8uUqyiXOxIQ99QkHHL_vYlQpF9YLhcopIeRnjDcjoE/pub"
 }
