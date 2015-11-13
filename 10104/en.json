@@ -1379,7 +1379,7 @@
   "search_win_find_middle": "and gets",
   "search_win_find_prefix": "found",
   "security_warning": "We remind Vanilla Show participants to be careful and not click on suspicious links, and even more so to ignore the requests to enter your username and password",
-  "seems_you_have_connection_problem": "Looks like you have problems with internet connection, please try again later.",
+  "seems_you_have_connection_problem": "Can't connect to server",
   "select_ad_type_fb": "– On start screen select ad type 'Clicks on web-site'",
   "select_ad_type_mm": "– On start screen select ad type 'External web-site'",
   "select_age": "Select age",
