@@ -1896,5 +1896,6 @@
   "please_sign_in": "Пожалуйста авторизуйтесь используя свой аккаунт в социальной сети",
   "review_login_text": "Подтверждая запрос, вы разрешаете этому приложению использовать свои данные в соответсвии с <a href='{0}'>Условиями использования</a> и <a href='{1}'>Политикой конфиденциальности</a>.",
   "privacy_policy_url":"https://docs.google.com/document/d/1dWtuuU6ibUofun8eQoyQy8AqFeztWJk2iJoy6d9oESs/pub",
-  "terms_of_use_url":"https://docs.google.com/document/d/1TADbIVUWOgSONd1A5ppOsaznlH9sAwBuEK3t6VxaRt4/pub"
+  "terms_of_use_url":"https://docs.google.com/document/d/1TADbIVUWOgSONd1A5ppOsaznlH9sAwBuEK3t6VxaRt4/pub",
+  "show":"шоу"
 }
