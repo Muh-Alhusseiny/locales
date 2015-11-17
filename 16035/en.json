@@ -32,5 +32,6 @@
   "title_description_2": "Launch your own online TV Show and broadcast it live at any convenient time. You can broadcast your favorite video, show or film from YouTube and discuss it in the global chat.",
   "title_description_3": "If audience like your show, they can leave you tips that you will be able to convert into cash at any convenient time. You can also invite friends on interesting shows and earn money from the <a href=\"http://faminta.com/partner\">Affiliate program</a>.",
   "translation_title": "Watch {0}'s TV show on Faminta!",
-  "watch_user_own_show_on_faminta": "Faminta: Live Stream & Chat — Broadcast live video, watch live events and chat."
+  "watch_user_own_show_on_faminta": "Faminta: Live Stream & Chat — Broadcast live video, watch live events and chat.",
+  "chrome_push_access": "Please allow me to send you push notifications, or simply close this window"
 }
