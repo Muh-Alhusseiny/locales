@@ -594,5 +594,7 @@
   "faberge_steel_military" : "Faberge egg «Steel Military»",
   "faberge_steel_military_description" : "The steel egg was the the last Easter gift presented by Emperor Nikolay II to his wife Alexandra Fiodorovna. It was crafted to honor the awarding of the Order of Saint George to the Tsar during the First World War, a very difficult time for Russia.",
   "card_1" : "Energy drink",
-  "card_1_descr" : "It is used for energy recovery"
+  "card_1_descr" : "It is used for energy recovery",
+  "card_2" : "Spank",
+  "card_2_descr" : "It is necessary to teach good manners, takes the energy from the victim"
 }
