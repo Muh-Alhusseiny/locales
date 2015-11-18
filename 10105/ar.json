@@ -1,7 +1,6 @@
 {
-  "about_me": "Information",
-  "accept_user_agreement": "By using this service, you accept the terms of the [User Agreement]",
-  "accept_user_agreement_button": "By confirming this request, you allow the application to use your data in accordance with the Terms of Use and Privacy Policy.",
+  "about_me": "معلومات",
+  "accept_user_agreement": "باستخدام هذه الخدمة، فإنك توافق على شروط [اتفاقية المستخدم]"    "accept_user_agreement_button": "By confirming this request, you allow the application to use your data in accordance with the Terms of Use and Privacy Policy.",
   "added_friend": "Added {0} as a friend",
   "added_subscription": "Added a {0} subscription ",
   "added_to_the_ignore": "{0} was added to the ignore list",
