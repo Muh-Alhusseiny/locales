@@ -2,9 +2,9 @@
   "about_me": "معلومات",
   "accept_user_agreement": "باستخدام هذه الخدمة، فإنك تقبل شروط [اتفاقية المستخدم]
   "accept_user_agreement_button": "By confirming this request, you allow the application to use your data in accordance with the Terms of Use and Privacy Policy.",
-  "added_friend": "Added {0} as a friend",
-  "added_subscription": "Added a {0} subscription ",
-  "added_to_the_ignore": "{0} was added to the ignore list",
+  "added_friend": "تمت  إضافة {0} كصديق,
+  "added_subscription": "تمت إضافة اشتراك  {0} ",
+  "added_to_the_ignore": "{0} مضاف إلى قائمة التجاهل,
   "add_friend": "Add a friend",
   "admin_dell_msg": "The moderator has deleted your message!",
   "admin_total_ban": "{0} banned user {1} for life\n",
